@@ -1,112 +1,175 @@
-## Hi there, I'm Devika! 👋
+<h1 align="center">Hi 👋, I'm Devika Jayan</h1>
 
-🎓 **B.Tech Computer Science Engineering Student**  
-💡 Passionate about solving real-world problems through technology.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Aspiring+Software+Development+Engineer;Learning+Data+Structures+%26+Algorithms;AI+%7C+Cybersecurity+Enthusiast;Building+One+Project+at+a+Time" />
+</p>
 
-## 🚀 About Me
-
-- 🔐 Aspiring Cybersecurity Professional
-- 📊 Enthusiastic Data Analyst
-- 💻 Passionate about Software Development
-- 🌱 Currently expanding my skills in Cloud Security, DSA, and SIEM
-- 🎯 Goal: Build secure, data-driven applications that create real impact
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Devkaiz&label=Profile%20Views&color=7aa2f7&style=for-the-badge"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
 
-### 👨‍💻 Programming Languages
-- Python
-- Java
-- SQL
-- C
+🎓 **B.Tech Computer Science Engineering Student**
 
-### 📊 Data Analytics
-- Excel
-- Power BI
-- Pandas
-- NumPy
-- Data Visualization
+💻 Passionate about **Software Development, AI, and Cybersecurity**
 
-### 🔒 Cybersecurity
-- Linux
-- OWASP Top 10
-- Burp Suite
-- OWASP ZAP
-- Wireshark
-- Nmap
-- Threat Modeling
-- SBOM Analysis
+🌱 Currently learning **Data Structures & Algorithms**
 
-### ⚙️ Tools & Technologies
-- Git & GitHub
-- Docker
-- VS Code
-- Figma
-- MySQL
+🎯 Goal: **Become a Software Development Engineer**
+
+📍 Kerala, India 🇮🇳
 
 ---
 
-## 📚 Currently Learning
+# 💻 Tech Stack
 
-- 📌 Data Structures & Algorithms
-- ☁️ Cloud Security
-- 🛡️ SOC & SIEM Fundamentals
-- 📈 Advanced SQL
-- 🐍 Python for Data Analytics
-- 🔍 Vulnerability Assessment & Penetration Testing
+### 👨‍💻 Languages
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=java"/>
+<img src="https://skillicons.dev/icons?i=c"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
 
-## 🚀 Featured Projects
+### 🛠 Tools & Technologies
 
-### 🔹 Smart Assistive Glasses for the Visually Impaired
-AI-powered navigation system using YOLOv5 and voice feedback.
-
-### 🔹 SBOM Vulnerability Scanner
-Generated Software Bills of Materials and analyzed vulnerabilities using Syft, Grype, and Dependency-Check.
-
-### 🔹 CPU Scheduler Simulation
-Implemented classic CPU scheduling algorithms in Java.
-
-### 🔹 Personal Expense Tracker
-Desktop application built with Java to manage personal finances.
-
-### 🔹 Power BI Dashboards
-Interactive dashboards for business insights and data visualization.
+<p>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=figma"/>
+</p>
 
 ---
 
-## 🎯 2026 Goals
+# 📚 Currently Learning
 
-- ✅ Solve 300+ DSA Problems
-- ✅ Build 10+ High-Quality Projects
-- ✅ Master SQL & Python
-- ✅ Earn Cybersecurity Certifications
-- ✅ Contribute to Open Source
-- ✅ Secure a Placement in Data Analytics or Cybersecurity
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: *www.linkedin.com/in/devika-jayan-*
-- 📧 Email: *devikajayan1307@gmail.com*
+- ✅ Data Structures & Algorithms
+- ✅ LeetCode
+- 🔄 Stack
+- 🔄 Binary Search
+- 🔄 Python
+- 🔜 Trees
+- 🔜 Graphs
+- 🔜 Dynamic Programming
 
 ---
 
-⭐ *"Always learning, always building."*
-<!--
-**Devkaiz/Devkaiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🏆 LeetCode Progress
 
-Here are some ideas to get you started:
+| Pattern | Status |
+|---------|--------|
+| Arrays | ✅ |
+| HashMap | ✅ |
+| HashSet | ✅ |
+| Two Pointers | ✅ |
+| Binary Search | ✅ |
+| Stack | ✅ |
+| Sliding Window | ⏳ |
+| Linked List | ⏳ |
+| Trees | ⏳ |
+| Graphs | ⏳ |
+| Dynamic Programming | ⏳ |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🚀 Featured Projects
+
+### 🤖 AI Navigation Assistant
+
+Smart assistive system for visually impaired individuals using AI and Computer Vision.
+
+---
+
+### 🌍 NASA Space Apps Challenge
+
+AI-powered Digital Twin for Healthy & Resilient Cities.
+
+---
+
+### 💰 Personal Expense Tracker
+
+Java-based expense tracker using Data Structures.
+
+---
+
+### 📚 Library Management System
+
+SQL-based database management project.
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devkaiz&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Devkaiz&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devkaiz&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📉 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devkaiz&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Devkaiz&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/devika-jayan-">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:devikajayan1307@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> *"Consistency beats intensity. One commit at a time."*
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</p>
