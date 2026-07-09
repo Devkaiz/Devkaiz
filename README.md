@@ -4,21 +4,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Computer+Science+Engineering+Student;Aspiring+Software+Development+Engineer;Learning+Data+Structures+%26+Algorithms;AI+%7C+Cybersecurity+Enthusiast;Building+One+Project+at+a+Time" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Devkaiz&label=Profile%20Views&color=7aa2f7&style=for-the-badge"/>
-</p>
-
 ---
 
 # 🚀 About Me
 
-🎓 **B.Tech Computer Science Engineering Student**
+🎓 B.Tech Computer Science Engineering Student
 
-💻 Passionate about **Software Development, AI, and Cybersecurity**
+💻 Passionate about **Software Development, Artificial Intelligence, and Cybersecurity**
 
 🌱 Currently learning **Data Structures & Algorithms**
 
-🎯 Goal: **Become a Software Development Engineer**
+🎯 Goal: Become a **Software Development Engineer**
 
 📍 Kerala, India 🇮🇳
 
@@ -26,47 +22,48 @@
 
 # 💻 Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=java"/>
-<img src="https://skillicons.dev/icons?i=c"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=c" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### 🛠 Tools & Technologies
+### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-<img src="https://skillicons.dev/icons?i=linux"/>
-<img src="https://skillicons.dev/icons?i=vscode"/>
-<img src="https://skillicons.dev/icons?i=figma"/>
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
 ---
 
 # 📚 Currently Learning
 
-- ✅ Data Structures & Algorithms
-- ✅ LeetCode
-- 🔄 Stack
-- 🔄 Binary Search
-- 🔄 Python
-- 🔜 Trees
-- 🔜 Graphs
-- 🔜 Dynamic Programming
+- 📖 Data Structures & Algorithms
+- 💻 LeetCode
+- 🐍 Python
+- 🔍 Binary Search
+- 📚 Stack
+- 🌳 Trees (Next)
+- 🌐 Graphs
+- ⚡ Dynamic Programming
 
 ---
 
-# 🏆 LeetCode Progress
+# 🏆 DSA Progress
 
 | Pattern | Status |
 |---------|--------|
 | Arrays | ✅ |
 | HashMap | ✅ |
 | HashSet | ✅ |
+| Frequency Map | ✅ |
 | Two Pointers | ✅ |
 | Binary Search | ✅ |
 | Stack | ✅ |
@@ -82,66 +79,43 @@
 
 ### 🤖 AI Navigation Assistant
 
-Smart assistive system for visually impaired individuals using AI and Computer Vision.
-
----
+AI-powered assistive navigation system for visually impaired individuals.
 
 ### 🌍 NASA Space Apps Challenge
 
-AI-powered Digital Twin for Healthy & Resilient Cities.
-
----
+Urban Echo – AI-powered Digital Twin for Healthy & Resilient Cities.
 
 ### 💰 Personal Expense Tracker
 
-Java-based expense tracker using Data Structures.
-
----
+Java application for tracking personal expenses.
 
 ### 📚 Library Management System
 
-SQL-based database management project.
+SQL-based database management system.
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devkaiz&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Devkaiz&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devkaiz&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Devkaiz&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Most Used Languages
+# 💻 Most Used Languages
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devkaiz&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devkaiz&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📉 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Devkaiz&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Devkaiz&theme=tokyonight&no-frame=true&margin-w=10"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devkaiz&theme=tokyo-night"/>
 </p>
 
 ---
@@ -150,26 +124,24 @@ SQL-based database management project.
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/devika-jayan-">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="https://www.linkedin.com/in/devika-jayan-/">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:devikajayan1307@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+# 💭 Quote
 
-> *"Consistency beats intensity. One commit at a time."*
+> **"Consistency beats intensity. One commit at a time."**
 
 ---
 
 <p align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
+  ⭐ Thanks for visiting my profile! ⭐
 </p>
