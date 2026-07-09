@@ -14,8 +14,6 @@
 
 🌱 Currently learning **Data Structures & Algorithms**
 
-🎯 Goal: Become a **Software Development Engineer**
-
 📍 Kerala, India 🇮🇳
 
 ---
