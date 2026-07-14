@@ -65,7 +65,7 @@
 | Two Pointers | ✅ |
 | Binary Search | ✅ |
 | Stack | ✅ |
-| Sliding Window | ⏳ |
+| Sliding Window |  ✅ |
 | Linked List | ⏳ |
 | Trees | ⏳ |
 | Graphs | ⏳ |
