@@ -109,10 +109,10 @@ SQL-based database management system.
 </p>
 
 ---
-## 🐍 Contribution Snake
+## 📊 GitHub Summary
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Devkaiz/Devkaiz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devkaiz&theme=tokyonight" />
 </p>
 # 📈 Contribution Graph
 
