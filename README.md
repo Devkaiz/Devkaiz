@@ -110,21 +110,14 @@ SQL-based database management system.
 
 ---
 
-## 📈 Contribution Calendar
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devkaiz&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devkaiz&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devkaiz&theme=tokyo-night"/>
-</p>
-
----
 
 # 📫 Connect With Me
 
