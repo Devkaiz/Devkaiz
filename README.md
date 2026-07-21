@@ -109,11 +109,15 @@ SQL-based database management system.
 </p>
 
 ---
-## 📊 GitHub Summary
+
+## 📈 Contribution Calendar
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Devkaiz&theme=tokyonight" />
 </p>
+
+---
+
 # 📈 Contribution Graph
 
 <p align="center">
