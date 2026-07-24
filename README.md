@@ -117,6 +117,9 @@ SQL-based database management system.
 </p>
 
 ---
+## 📅 Contribution Graph
+
+[![Devika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devkaiz&theme=github-compact)](https://github.com/Devkaiz)
 
 
 # 📫 Connect With Me
