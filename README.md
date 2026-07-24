@@ -102,21 +102,9 @@ SQL-based database management system.
 
 ---
 
-# 💻 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devkaiz&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
 
----
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Devkaiz&theme=tokyo-night&hide_border=true" />
-</p>
-
----
 ## 📅 Contribution Graph
 
 [![Devika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devkaiz&theme=github-compact)](https://github.com/Devkaiz)
