@@ -66,7 +66,7 @@ Hi 👋, I'm Devika Jayan</h1>
 | Binary Search | ✅ |
 | Stack | ✅ |
 | Sliding Window |  ✅ |
-| Linked List | ⏳ |
+| Linked List | ✅ |
 | Trees | ⏳ |
 | Graphs | ⏳ |
 | Dynamic Programming | ⏳ |
