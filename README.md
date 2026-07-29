@@ -93,18 +93,6 @@ SQL-based database management system.
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devkaiz&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Devkaiz&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-
-
-
 ## 📅 Contribution Graph
 
 [![Devika's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Devkaiz&theme=github-compact)](https://github.com/Devkaiz)
