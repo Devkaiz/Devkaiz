@@ -76,19 +76,18 @@ Hi 👋, I'm Devika Jayan</h1>
 # 🚀 Featured Projects
 
 ### 🤖 AI Navigation Assistant
-
-AI-powered assistive navigation system for visually impaired individuals.
+AI-powered assistive navigation system for visually impaired individuals using Computer Vision.
 
 ### 🌍 NASA Space Apps Challenge
+**Urban Echo** – AI-powered Digital Twin for Healthy & Resilient Cities.
 
-Urban Echo – AI-powered Digital Twin for Healthy & Resilient Cities.
+### 🎵 Spotify Web Player Clone
+Responsive Spotify-inspired web interface built using **HTML5** and **CSS3**, featuring Flexbox layouts, a modern UI, and interactive music player design.
 
 ### 💰 Personal Expense Tracker
-
 Java application for tracking personal expenses.
 
 ### 📚 Library Management System
-
 SQL-based database management system.
 
 ---
